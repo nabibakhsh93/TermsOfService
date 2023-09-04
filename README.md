@@ -1,4 +1,4 @@
-# TermsOfService
+# Terms Of Service
 
 Version 1.0
 The Mother care app is a copyrighted work belonging to Yuan Fu. Certain features of the Application may be subject to additional guidelines, terms, or rules, which will be posted on the App in connection with such features.
